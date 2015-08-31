@@ -1,2 +1,9 @@
 ---
-jira_user_home_dir: /opt
+jira_user_home_dir: /opt/atlassian/jira
+jira_user_group: jira
+jira_user_group_gid: 1000
+jira_user: jira
+jira_user_uid: 1000
+jira_home: /opt/atlassian/jira
+jira_version: 6.4.11
+jira_download_link: https://downloads.atlassian.com/software/jira/downloads/atlassian-jira
